@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ACME Department Store</string>
+
+    //Header Text
+    <string name="Text_ACMEDepartmentStore">ACME Department Store</string>
+    <string name="UserProfile_Text">User Profile Credentials</string>
+
+    <string name="Login_Text_Header">
+                The
+                ACME
+                Department Store
+                Inventory System</string>
+
+
+    /****************************/
+
+    //For the button links
+    <string name="Button_MobileShopping">Mobile Shopping</string>
+    <string name="Button_Departments">Departments</string>
+    <string name="Button_Specials">Specials</string>
+    <string name="Button_GiftGuide">Gift Guide</string>
+    <string name="Button_GiftCards">Gift Cards</string>
+    <string name="Button_InventorySystem">Inventory System</string>
+    <string name="Button_GetDirections">Get Directions</string>
+    <string name="Button_WorkForUs">Work for Us</string>
+    <string name="Button_ContactUs">Contact Us</string>
+
+    /****************************/
+
+    //Text View links
+    <string name="Link_Home">Home</string>
+    <string name="Link_Login">Login</string>
+    <string name="Link_RegisterHere">New User? Register here!</string>
+    <string name="tvChangePassword"> Change Password?</string>
+
+
+    /****************************/
+
+    //Buttons
+    <string name="Login_Button_login">Login</string>
+    <string name="Link_UserProfile"> >> User Profile</string>
+    <string name="Button_LogOut">Log Out</string>
+    <string name="Button_Save">Save</string>
+
+
+    /****************************/
+
+    //Edit Text
+    <string name="tvCurrentUsername">Username</string>
+    <string name="UserProfile_LastName">Last Name</string>
+
+
+</resources>
