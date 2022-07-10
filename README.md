@@ -1,5 +1,5 @@
 # ACME_Project3 - Inventory System
-This program is based on the assigned final project for IT-633 Mobile Application Development.
+Final Project Coursework for SNHU Master of Science in IT/Software Development program - IT-633 Mobile Application Development.
 
 ## Features
 This program utilizes fictitious business requirements and design a mobile application to meet a business's needs based on the selected mobile application framework and functionality set. The functionality set chosen was for Project (Framework) Three:
