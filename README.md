@@ -11,6 +11,7 @@ This program utilizes fictitious business requirements and design a mobile appli
 ## Technologies Used
 - Android Studio
 - Android SDK
+- Java
 
 ## Intention of this Program
 - Demonstrate knowledge and utilization of Android functionality to create a mobile app program that is usable and scalable with multiple devices.
