@@ -1,4 +1,4 @@
-# ACME_Project3
+# ACME_Project3 - Inventory System
 This program is based on the assigned final project for IT-633 Mobile Application Development.
 
 ## Features
